@@ -1,0 +1,7 @@
+The website is being created for the online presence of our batch. Eventually the website will contain sections like Activities,Announcements,Drive,personal account (with an email ID).
+Some websites might contain advertisements , the money earned from it will be used for website improvement,hosting etc.
+The data which you are provided us will be kept with highest security.
+No Spamming will be done from our side.
+
+Advisor: Swatik Ghosh, Daipayan Mukherjee, Abhigyan Das
+Website developer: Rohit Chattopadhyay
